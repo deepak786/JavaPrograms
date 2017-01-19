@@ -10,3 +10,11 @@ VERSION or DATE: Jan 19, 2017
 HOW TO START THIS PROJECT:
 AUTHORS: Deepak Goyal 
 USER INSTRUCTIONS:
+This project uses BlueJ IDE. You can download the BlueJ IDE from the following link.
+http://www.bluej.org/
+
+
+
+
+<b>Deepak Goyal</b>
+https://about.me/deepak_goyal 
